@@ -113,7 +113,7 @@ Additionally, the application requires the following:
 - tqdm
 - random
 
-## Some useful info about IMDB database
+## Some useful details about IMDB database
 
 **Database details as of 05-11-2023:**
 - name_basic.shape, (12986658, 6)
